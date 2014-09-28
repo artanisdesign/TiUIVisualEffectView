@@ -1,0 +1,839 @@
+TNativeBlurView
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a normal i386
+cLibtool /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a normal x86_64
+cCreateUniversalBinary /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a normal i386\ x86_64
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005360B31F0000000000000198
+t1398846239
+s408
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EF33300000000000003B4
+t1394537267
+s948
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EF33A000000000000019E
+t1394537274
+s414
+
+N/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EF33E000000000088D8C0
+t1394537278
+s8968384
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.h
+c0000000054173F4300000000000000BC
+t1410809667
+s188
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m
+c0000000054173F43000000000000089B
+t1410809667
+s2203
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.h
+c0000000054173F4300000000000000E3
+t1410809667
+s227
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m
+c0000000054173F430000000000000278
+t1410809667
+s632
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.h
+c0000000054174942000000000000015B
+t1410812226
+s347
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m
+c00000000541749CC0000000000000383
+t1410812364
+s899
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m
+c00000000541749B60000000000000178
+t1410812342
+s376
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch
+c0000000054173F43000000000000003E
+t1410809667
+s62
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m
+c0000000054174834000000000000035B
+t1410811956
+s859
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffect.LinkFileList
+c00000000541749E30000000000000347
+t1410812387
+s839
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o
+t1410810093
+s16580
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o
+t1410810093
+s5224
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o
+t1410812387
+s50260
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o
+t1410812387
+s47504
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o
+t1410812065
+s49780
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a
+t1410812387
+s120672
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffect.LinkFileList
+c00000000541749E3000000000000034F
+t1410812387
+s847
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o
+t1410810093
+s18220
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o
+t1410810093
+s6028
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o
+t1410812387
+s51864
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o
+t1410812387
+s47904
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o
+t1410812065
+s51380
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a
+t1410812387
+s125120
+
+N/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a
+t1410812243
+s149952
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/Bridge.h
+c0000000054001CFE0000000000000268
+t1409293566
+s616
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+c0000000054001CFE0000000000000AA8
+t1409293566
+s2728
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+c0000000054001CFE00000000000013B2
+t1409293566
+s5042
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+c0000000054001CFE0000000000000D7F
+t1409293566
+s3455
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+c0000000054001CFE0000000000000B9E
+t1409293566
+s2974
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+c0000000054001CFE0000000000000269
+t1409293566
+s617
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+c0000000054001CFE000000000000124D
+t1409293566
+s4685
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+c0000000054001CFE0000000000004C7E
+t1409293566
+s19582
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+c0000000054001CFE000000000000058B
+t1409293566
+s1419
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+c0000000054001CFE0000000000000B24
+t1409293566
+s2852
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+c0000000054001CFE00000000000005EF
+t1409293566
+s1519
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+c0000000054001CFE0000000000000496
+t1409293566
+s1174
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+c0000000054001CFE0000000000000721
+t1409293566
+s1825
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+c0000000054001CFE00000000000019E1
+t1409293566
+s6625
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+c0000000054001CFE00000000000014DD
+t1409293566
+s5341
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000054001CFE0000000000000990
+t1409293566
+s2448
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+c0000000054001CFE00000000000006A0
+t1409293566
+s1696
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+c0000000054001CFE0000000000009462
+t1409293566
+s37986
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+c0000000054001CFE00000000000016E7
+t1409293566
+s5863
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+c0000000054001CFE0000000000000A40
+t1409293566
+s2624
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+c0000000054001CFE000000000000323B
+t1409293566
+s12859
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+c0000000054001CFE00000000000080D1
+t1409293566
+s32977
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+c0000000054001CFE0000000000000FF5
+t1409293566
+s4085
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+c0000000054001CFE00000000000004D5
+t1409293566
+s1237
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+c0000000054001CFE0000000000000680
+t1409293566
+s1664
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+c0000000054001CFE00000000000005FC
+t1409293566
+s1532
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiHost.h
+c0000000054001CFE0000000000000532
+t1409293566
+s1330
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+c0000000054001CFE0000000000000736
+t1409293566
+s1846
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+c0000000054001CFE0000000000000443
+t1409293566
+s1091
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+c0000000054001CFE0000000000002B9A
+t1409293566
+s11162
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+c0000000054001CFE0000000000000A67
+t1409293566
+s2663
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiStylesheet.h
+c0000000054001CFE00000000000002CB
+t1409293566
+s715
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+c0000000054001CFE00000000000008EF
+t1409293566
+s2287
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+c0000000054001CFE000000000000217A
+t1409293566
+s8570
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+c0000000054001CFE0000000000005690
+t1409293566
+s22160
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+c0000000054001CFE0000000000000A25
+t1409293566
+s2597
+
+N/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+c0000000054001CFE0000000000000C4C
+t1409293566
+s3148
+
+N/var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch
+t1410810092
+s3233728
+
+N/var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch
+t1410810092
+s3237524
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesacffff6281c7b941^390f136381c7b941^---0#1#1#--18"Check dependencies36"61BA9540-FB65-47B6-98E4-4441E1FAEF3B-
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502893.000760
+e432502893.208986
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiHost.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/Bridge.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m254"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o Classes/ComArtanisdesignUivisualeffectModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8461006d78c7b941^4e9b356d78c7b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m0000000000000000^4485"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o Classes/ComArtanisdesignUivisualeffectModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModule.o36"8F33D63B-D18F-4FE0-A893-2BC0627E3177-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502893.001230
+e432502893.037634
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m266"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler357b006d78c7b941^f6b50a6d78c7b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m0000000000000000^4521"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectModuleAssets.o36"2AC5FB77-342A-42A0-91B8-2D8F8E036131-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432505187.078250
+e432505187.387791
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m258"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o [1mComArtanisdesignUivisualeffectView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7b4c146381c7b941^6746636381c7b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m0000000000000000^4495"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o [1mComArtanisdesignUivisualeffectView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectView.o36"0626342D-94E6-4B30-84C5-66A20DF38DF1-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432505187.079053
+e432505187.373479
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiViewProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiRect.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m268"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o [1mComArtanisdesignUivisualeffectViewProxy.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5261146381c7b941^2c9d5f6381c7b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m0000000000000000^4525"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o [1mComArtanisdesignUivisualeffectViewProxy.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffectViewProxy.o36"A45FF1E9-3D5B-4D23-95C4-BF9458411B9B-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432504864.882991
+e432504865.186715
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m218"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o [1mNativeBlurView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler062fe22080c7b941^fa0c302180c7b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m0000000000000000^4375"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o [1mNativeBlurView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/NativeBlurView.o36"8A3BC78C-79E0-4267-9E8C-0F0780AD7508-
+bC2758660-F990-4890-81E6-A44755B628FA
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502893.001544
+e432502893.226215
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiHost.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/Bridge.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m258"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o Classes/ComArtanisdesignUivisualeffectModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerad8a006d78c7b941^36ea396d78c7b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m0000000000000000^4496"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o Classes/ComArtanisdesignUivisualeffectModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModule.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModule.o36"15CEF866-3759-4A71-A2E7-8AFCCB0B9BB0-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502893.003005
+e432502893.058397
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m270"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere7e1006d78c7b941^ad130f6d78c7b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m0000000000000000^4532"CompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o Classes/ComArtanisdesignUivisualeffectModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectModuleAssets.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectModuleAssets.o36"1DC2B25B-3DD9-48DA-8707-5A87C0F370AB-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432505187.081129
+e432505187.392618
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m262"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o [1mComArtanisdesignUivisualeffectView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere71b156381c7b941^fd83646381c7b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m0000000000000000^4506"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o [1mComArtanisdesignUivisualeffectView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectView.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectView.o36"BFDEC89F-F608-4E06-A32B-2DF063E1FBAB-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432505187.081168
+e432505187.370064
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiViewProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiRect.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m272"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o [1mComArtanisdesignUivisualeffectViewProxy.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0d1b156381c7b941^77bf5e6381c7b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m0000000000000000^4536"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o [1mComArtanisdesignUivisualeffectViewProxy.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffectViewProxy.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffectViewProxy.o36"0F08A830-63EC-486D-935E-7BCF49D9C9FD-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CCompileC build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432504864.885599
+e432504865.187397
+r1
+xCompileC
+xbuild/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUIView.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiProxy.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/defines.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiThreading.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPublicAPI.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiEvaluator.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollContext.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiCore.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/Ti.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiBase.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiObjectRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiValueRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/WebKitAvailability.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRef.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiStringRefCF.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollCallback.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/KrollObject.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBindingRunLoop.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiAnimation.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiPoint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiDimension.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiColor.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/ListenerEntry.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiModule.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiUtils.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/WebFont.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiFile.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBuffer.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiBlob.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/LayoutConstraint.h
+d/Users/Artanis/Library/Application Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m222"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o [1mNativeBlurView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler10eae22080c7b941^99d4302180c7b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m0000000000000000^4386"[1mCompileC[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o [1mNativeBlurView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=118 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch -MMD -MT dependencies -MF /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.d --serialize-diagnostics /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.dia -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/NativeBlurView.m -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/NativeBlurView.o36"B63FA20E-5873-4C3C-A581-7112F96AA22C-
+bC2758660-F990-4890-81E6-A44755B628FA
+
+CCreateUniversalBinary /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a normal i386\ x86_64
+s432505187.401494
+e432505187.410503
+r1
+xCreateUniversalBinary
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Create universal binary /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a123"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a[0m normal i386\ x86_6417d9666381c7b941^8317696381c7b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a0000000000000000^1099"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a[0m normal i386\ x86_64    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/libComArtanisdesignUivisualeffect.a36"E7893C9A-AB99-4491-9537-5AD7FECE1725-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CLibtool /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a normal i386
+s432505187.393319
+e432505187.400749
+r1
+xLibtool
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a
+xnormal
+xi386
+o/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a normal i386155"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a normal i38687c5646381c7b941^d49a666381c7b941^-160"/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1328"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a normal i386    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -filelist /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/ComArtanisdesignUivisualeffect.LinkFileList -ObjC -framework Foundation -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/i386/libComArtanisdesignUivisualeffect.a36"7EAA3B06-1542-4399-9D51-38220F033399-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CLibtool /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a normal x86_64
+s432505187.393643
+e432505187.400914
+r1
+xLibtool
+x/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a
+xnormal
+xx86_64
+o/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a normal x86_64159"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a normal x86_6463d5646381c7b941^68b3666381c7b941^-160"/Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1338"[1mLibtool[0m build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a normal x86_64    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -filelist /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/ComArtanisdesignUivisualeffect.LinkFileList -ObjC -framework Foundation -o /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/Objects-normal/x86_64/libComArtanisdesignUivisualeffect.a36"C73A4D5D-AAB9-40EA-8BBC-1AC8C17D3278-
+bABF7F26C-3997-47F3-A1A5-12DD4C06B285
+
+CProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502892.712022
+e432502892.999256
+r1
+xProcessPCH
+x/var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch
+xComArtanisdesignUivisualeffect_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Precompile ComArtanisdesignUivisualeffect_Prefix.pch351"ProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc592b66c78c7b941^b8caff6c78c7b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch0000000000000000^4413"ProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/i386 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.d -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch -o /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-afcwrtaiuhoprvalsqysxdwwuhdx/ComArtanisdesignUivisualeffect_Prefix.pch.pch36"72884C23-06AC-401F-8A21-BAF7415C08C0-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+
+CProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432502892.712499
+e432502892.999234
+r1
+xProcessPCH
+x/var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch
+xComArtanisdesignUivisualeffect_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Precompile ComArtanisdesignUivisualeffect_Prefix.pch353"ProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler23dab66c78c7b941^95d6ff6c78c7b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch0000000000000000^4416"ProcessPCH /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch ComArtanisdesignUivisualeffect_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-generated-files.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-own-target-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-all-target-headers.hmap -iquote /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/ComArtanisdesignUivisualeffect-project-headers.hmap -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include -I/Users/Artanis/Library/Application\ Support/Titanium/mobilesdk/osx/3.4.0.v20140903121714/iphone/include/TiCore -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources/x86_64 -I/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/NativeBlurView.build/Release-iphonesimulator/NativeBlurView.build/DerivedSources -F/Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.d -c /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/ComArtanisdesignUivisualeffect_Prefix.pch -o /var/folders/cq/lb5069pd18bc2_4yy1qf_frh0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ComArtanisdesignUivisualeffect_Prefix-gfjvvsfvtfrkcegqebijfcjlilwz/ComArtanisdesignUivisualeffect_Prefix.pch.pch36"D0A2A840-9EE4-43B2-8CC2-98F5B57AFA67-
+bFB092E86-AFD2-4F39-9A32-FFD181AD249C
+

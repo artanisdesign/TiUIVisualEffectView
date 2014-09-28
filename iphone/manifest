@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: NativeBlurView
+author: Artanis
+license: Specify your license
+copyright: Copyright (c) 2014 by 
+
+# these should not be edited
+name: NativeBlurView
+moduleid: com.artanisdesign.uivisualeffect
+guid: 89955543-0de8-4fb8-b98d-0da64b659448
+platform: iphone
+minsdk: 3.4.0.v20140903121714
