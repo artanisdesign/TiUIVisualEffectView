@@ -1,4 +1,4 @@
-# UIVisualEffectsView Module
+# TiUIVisualEffectsView Module
 
 The project allows you to use UIVisualEffectsView on iOS8 (native iOS blur and vibrancy effect). 
 ![Image](../master/assets/activity.png)
