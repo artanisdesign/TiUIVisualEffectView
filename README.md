@@ -2,7 +2,7 @@
 
 The project allows you to use UIVisualEffectsView on iOS8 (native iOS blur and vibrancy effect). 
 ![Image](../master/assets/activity.png)
-![Image](../master/assets/views.png)
+![Image](../master/assets/views_.png)
 
 ## Before you start
 * This is an iOS native module designed to work with Titanium SDK 3.4.0+
