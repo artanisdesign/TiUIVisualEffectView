@@ -33,7 +33,7 @@ Import the project into Eclipse:
 * Install the module. If you need help here is a "How To" [guide](https://wiki.appcelerator.org/display/guides/Configuring+Apps+to+Use+Modules). 
 * You can now use the module via the commonJS require method, example shown below.
 * 
-## Accessing the UIVisualEffectsView Module
+## Accessing the TiUIVisualEffectsView Module
 
 To access this module from JavaScript, you would do the following:
 
