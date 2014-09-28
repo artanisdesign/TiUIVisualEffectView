@@ -9,7 +9,7 @@ The project allows you to use UIVisualEffectsView on iOS8 (native iOS blur and v
 * This will only work with iOS <b>8</b> or greater
 
 ## Download the compiled release
-* [dist](https://github.com/-/-/tree/master/iphone/dist)
+* [dist](https://github.com/artanisdesign/TiUIVisualEffectView/tree/master/dist)
 
 ## or build from source
 If you are building from source you will need to do the following:
