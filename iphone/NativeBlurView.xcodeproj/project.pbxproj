@@ -28,7 +28,6 @@
 		24DE9E1211C5FE74003F90F6 /* ComArtanisdesignUivisualeffectModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* ComArtanisdesignUivisualeffectModuleAssets.m */; };
 		2AF646DA19C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AF646D819C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.h */; };
 		2AF646DB19C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF646D919C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.m */; };
-		2AF646DF19C7813700CC32D9 /* Classes in Sources */ = {isa = PBXBuildFile; fileRef = 2AF646DD19C7813700CC32D9 /* Classes */; };
 		2AF646E119C789EF00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2AF646E019C789EF00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.m */; };
 		2AF646E319C78A2A00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AF646E219C78A2A00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.h */; };
 		AA747D9F0F9514B9006C5449 /* ComArtanisdesignUivisualeffect_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* ComArtanisdesignUivisualeffect_Prefix.pch */; };
@@ -53,7 +52,6 @@
 		24DE9E1011C5FE74003F90F6 /* ComArtanisdesignUivisualeffectModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComArtanisdesignUivisualeffectModuleAssets.m; path = Classes/ComArtanisdesignUivisualeffectModuleAssets.m; sourceTree = "<group>"; };
 		2AF646D819C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComArtanisdesignUivisualeffectView.h; path = /Users/Artanis/Documents/Appcelerator_Studio_Workspace/NativeBlurView/iphone/Classes/ComArtanisdesignUivisualeffectView.h; sourceTree = "<absolute>"; };
 		2AF646D919C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComArtanisdesignUivisualeffectView.m; path = Classes/ComArtanisdesignUivisualeffectView.m; sourceTree = "<group>"; };
-		2AF646DD19C7813700CC32D9 /* Classes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = folder; path = Classes; sourceTree = "<group>"; };
 		2AF646E019C789EF00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ComArtanisdesignUivisualeffectViewProxy.m; path = Classes/ComArtanisdesignUivisualeffectViewProxy.m; sourceTree = "<group>"; };
 		2AF646E219C78A2A00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ComArtanisdesignUivisualeffectViewProxy.h; path = Classes/ComArtanisdesignUivisualeffectViewProxy.h; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* ComArtanisdesignUivisualeffect_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComArtanisdesignUivisualeffect_Prefix.pch; sourceTree = SOURCE_ROOT; };
@@ -111,7 +109,6 @@
 				2AF646D919C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.m */,
 				2AF646E019C789EF00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.m */,
 				2AF646E219C78A2A00CC32D9 /* ComArtanisdesignUivisualeffectViewProxy.h */,
-				2AF646DD19C7813700CC32D9 /* Classes */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -214,7 +211,6 @@
 				24DD6CFA1134B3F500162E58 /* ComArtanisdesignUivisualeffectModule.m in Sources */,
 				24DE9E1211C5FE74003F90F6 /* ComArtanisdesignUivisualeffectModuleAssets.m in Sources */,
 				2AF646DB19C780B400CC32D9 /* ComArtanisdesignUivisualeffectView.m in Sources */,
-				2AF646DF19C7813700CC32D9 /* Classes in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

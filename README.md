@@ -63,6 +63,9 @@ It's not recommended to add view directly to the blurred view (just use it as a 
 
 Please feel to free to contribute and help me override the default "add" function. 
 
+## Release notes
+* 1.0.1 - rebuilt with 3.4.0.GA
+
 ## Author
 
 Artanis, Gergely Cziva, info@artanisdesign.eu, Twitter:  [@_ artanis _](https://twitter.com/_artanis_ "_artanis_")
