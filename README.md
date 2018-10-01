@@ -1,5 +1,8 @@
 # TiUIVisualEffectsView Module
 
+## PLEASE NOTE! 
+This module is outdated and deprecated. Use the [built-in](https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.iOS.BlurView) API from Appcelerator
+
 The project allows you to use UIVisualEffectsView on iOS8 (native iOS blur and vibrancy effect). 
 ![Image](../master/assets/activity.png)
 ![Image](../master/assets/views_.png)
